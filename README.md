@@ -1,6 +1,7 @@
 ### Hello World ?
 I am CEO of NiCE CODE sp. z o.o. and fullstack developer from Poland<br>Working on multiple frontend and backend project using Laravel, Symfony and React, Vue.<br><br>
 #### Contact: <a href="mailto:twoj.adres.email@example.com">jakub.przepiora@nice-code.eu</a>
+[<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">](https://ko-fi.com/jakubprzepiora/)
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡠⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠟⠃⠀⠀⠙⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
