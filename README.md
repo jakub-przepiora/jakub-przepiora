@@ -2,6 +2,7 @@
 I am the CEO of NiCE CODE sp. z o.o. and a full-stack developer from Poland. I work on a variety of frontend and backend projects, leveraging technologies such as Laravel, Symfony, React, and Vue.
 In addition to development, I also specialize in web application security testing, ensuring robust protection for systems. I enjoy creating my own tools to enhance workflows and optimize processes.<br><br>
 #### Contact: <a href="mailto:jakub.przepiora@nice-code.com">jakub.przepiora@nice-code.com</a>
+#### Blog: https://themreviil-blog.github.io/
 [<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">](https://ko-fi.com/jakubprzepiora/)
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡠⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
